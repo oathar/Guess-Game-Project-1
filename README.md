@@ -1,4 +1,5 @@
 ﻿# Guess-Game-Project-1
+ <h6>Guess the number bewteen 1 to 100. </h6>h6>
 <p> Added CSS to make it more user-friendly</p>
 
 ![Screenshot 2024-11-22 213008](https://github.com/user-attachments/assets/3a095030-b7c5-4de3-b412-be4c89c94016)
