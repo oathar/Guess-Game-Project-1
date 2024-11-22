@@ -1,0 +1,25 @@
+.container {
+    border: 1px solid black;
+    background: white;
+    text-align: center;
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 33%;
+    margin-right: 25%;
+    box-shadow: 5px 5px ;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+body {
+    background: radial-gradient(circle, #072838, #ddd9d9); /* Radial gradient */
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 5px;
+    margin: 2px ;
+    border-radius: 9px;
+}
+
