@@ -1,9 +1,7 @@
 ﻿# Guess-Game-Project-1
 <p> Added CSS to make it more user-friendly</p>
-![Screenshot 2024-11-22 213008](https://github.com/user-attachments/assets/f0e50620-bcb8-4e65-9309-cfa4e4779d68)
 
-<br>
-![Screenshot 2024-11-22 203549](https://github.com/user-attachments/assets/e3cea890-f7d1-4413-9be4-a9e6a1f9d522)
-
-<br>
-![Screenshot 2024-11-22 203517](https://github.com/user-attachments/assets/3d6ef5f9-04f5-42e3-af1b-777fa77bbc8e)
+![Screenshot 2024-11-22 203517](https://github.com/user-attachments/assets/ea40eb1a-0ea5-4415-b626-4aee1f38852c)
+![Screenshot 2024-11-22 203456](https://github.com/user-attachments/assets/7139b555-3722-48f6-a051-da5c73d2b5c4)
+![Screenshot 2024-11-22 213008](https://github.com/user-attachments/assets/3a095030-b7c5-4de3-b412-be4c89c94016)
+![Screenshot 2024-11-22 203549](https://github.com/user-attachments/assets/e950af46-11aa-4aa6-99b2-afbf637e05ab)
